@@ -27,6 +27,10 @@ Salles de concert définies par rangées et sièges.
 Sièges avec statut de réservation et catégorie de prix.  
   
 Deux modes de fonctionnement : Manager et Festivalier.  
+
+
+# Les modes d'utilisations:  
+  
   
 ## Mode Manager
 Création et configuration des salles de concert.  
