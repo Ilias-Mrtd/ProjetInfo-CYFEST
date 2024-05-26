@@ -2,16 +2,16 @@
 
 ## Description du projet:
 
-## Le but de ce projet est de développer une application permettant aux organisateurs de gérer les différentes scènes du festival CY'Fest. Les participants doivent payer et réserver leurs places pour les différents concerts. Ce projet implique :
+Le but de ce projet est de développer une application permettant aux organisateurs de gérer les différentes scènes du festival CY'Fest. Les participants doivent payer et réserver leurs places pour les différents concerts. Ce projet implique :
 
-#### Gestion des fichiers
+# Gestion des fichiers
 #### Allocation dynamique
 #### Conception d'interface
 #### Informations générales
 
 
 
-# #Mode général
+## Mode général
 #### Scènes et artistes personnalisables.
 #### Sauvegarde de l'état des salles de concert entre les sessions.
 #### Salles de concert définies par rangées et sièges.
