@@ -17,8 +17,12 @@ Le but de ce projet est de développer une application permettant aux organisate
 →Conception d'interface  
   
 →Informations générales  
+
+
+      
 ## Avantage du projet: 
-Scènes et artistes personnalisables.  
+  
+→Scènes et artistes personnalisables.  
   
 →Sauvegarde de l'état des salles de concert entre les sessions.   
   
@@ -28,6 +32,11 @@ Scènes et artistes personnalisables.
   
 →Deux modes de fonctionnement : Manager et Festivalier.  
 
+
+
+
+
+          
 
 # Les modes d'utilisations:  
   
