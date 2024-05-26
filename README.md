@@ -1,14 +1,13 @@
 ![DALL·E-2024-05-26-21 31 51-A-panoramic-view-of-a-concert-named-CY_Fest](https://github.com/Ilias-Mrtd/ProjetInfo-CYFEST/assets/92232344/4a77c619-f3d4-4585-b5de-da985cf1bfd7)
 
 
+# Projet CY-Fest 
 
-# Projet CY-Fest
-
-## Description du projet:
+## Description du projet 📜:
 
 Le but de ce projet est de développer une application permettant aux organisateurs de gérer les différentes scènes du festival CY'Fest. Les participants doivent payer et réserver leurs places pour les différents concerts. 
 
-## Ce projet implique :
+## Ce projet implique 💼:
 
 →Gestion des fichiers  
   
@@ -20,7 +19,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 
 
       
-## Avantage du projet: 
+## Avantage du projet 🚀: 
   
 →Scènes et artistes personnalisables.  
   
@@ -41,7 +40,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 # Les modes d'utilisations:  
   
   
-## Mode Manager
+## Mode Manager 💫
 →Création et configuration des salles de concert.  
   
 →Attribution des salles aux concerts, avec option de fosse.  
@@ -53,7 +52,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 →Consultation de l'état des salles et des ratios de réservation.  
   
 
-## Mode Festivalier
+## Mode Festivalier 🍾
 →Affichage des salles avec concerts à venir.  
   
 →Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.  
