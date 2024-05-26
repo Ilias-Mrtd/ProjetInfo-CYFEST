@@ -10,50 +10,50 @@ Le but de ce projet est de développer une application permettant aux organisate
 
 ## Ce projet implique :
 
-Gestion des fichiers  
+→Gestion des fichiers  
   
-Allocation dynamique  
+→Allocation dynamique  
   
-Conception d'interface  
+→Conception d'interface  
   
-Informations générales  
+→Informations générales  
 ## Avantage du projet: 
 Scènes et artistes personnalisables.  
   
-Sauvegarde de l'état des salles de concert entre les sessions.   
+→Sauvegarde de l'état des salles de concert entre les sessions.   
   
-Salles de concert définies par rangées et sièges.  
+→Salles de concert définies par rangées et sièges.  
   
-Sièges avec statut de réservation et catégorie de prix.  
+→Sièges avec statut de réservation et catégorie de prix.  
   
-Deux modes de fonctionnement : Manager et Festivalier.  
+→Deux modes de fonctionnement : Manager et Festivalier.  
 
 
 # Les modes d'utilisations:  
   
   
 ## Mode Manager
-Création et configuration des salles de concert.  
+→Création et configuration des salles de concert.  
   
-Attribution des salles aux concerts, avec option de fosse.  
+→Attribution des salles aux concerts, avec option de fosse.  
   
-Définition des prix des sièges par catégorie.  
+→Définition des prix des sièges par catégorie.  
   
-Modification des configurations des salles après concert.  
+→Modification des configurations des salles après concert.  
   
-Consultation de l'état des salles et des ratios de réservation.  
+→Consultation de l'état des salles et des ratios de réservation.  
   
 
 ## Mode Festivalier
-Affichage des salles avec concerts à venir.  
+→Affichage des salles avec concerts à venir.  
   
-Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.  
+→Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.  
   
-Affichage du prix total des réservations.  
+→Affichage du prix total des réservations.  
   
-Améliorations supplémentaires  
+→Améliorations supplémentaires  
   
-Création automatique des salles à partir d'un fichier de programme du festival.  
+→Création automatique des salles à partir d'un fichier de programme du festival.  
   
-Recherche des meilleures places adjacentes disponibles.  
+→Recherche des meilleures places adjacentes disponibles.  
   
