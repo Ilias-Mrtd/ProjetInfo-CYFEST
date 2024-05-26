@@ -1,3 +1,7 @@
+![DALL·E-2024-05-26-21 31 51-A-panoramic-view-of-a-concert-named-CY_Fest](https://github.com/Ilias-Mrtd/ProjetInfo-CYFEST/assets/92232344/4a77c619-f3d4-4585-b5de-da985cf1bfd7)
+
+
+
 # Projet CY-Fest
 
 ## Description du projet:
