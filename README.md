@@ -1,54 +1,47 @@
-#include <stdio.h>
+Projet CY'Fest
 
-int main() {
-    printf("# Projet CY'Fest\n\n");
-    printf("## Description du projet\n");
-    printf("Le but de ce projet est de développer une application permettant aux organisateurs de gérer les différentes scènes du festival CY'Fest. Les participants doivent payer et réserver leurs places pour les différents concerts. Ce projet implique :\n");
-    printf("- Gestion des fichiers\n");
-    printf("- Allocation dynamique\n");
-    printf("- Conception d'interface\n\n");
+Description du projet
 
-    printf("## Informations générales\n\n");
+Le but de ce projet est de développer une application permettant aux organisateurs de gérer les différentes scènes du festival CY'Fest. Les participants doivent payer et réserver leurs places pour les différents concerts. Ce projet implique :
 
-    printf("### Critères généraux\n");
-    printf("- Application fonctionnelle conforme à la description initiale.\n");
-    printf("- Code généreusement commenté.\n");
-    printf("- Langue uniforme pour tout le code (anglais recommandé).\n");
-    printf("- Gestion correcte des erreurs pour éviter les plantages.\n");
-    printf("- Conception modulaire du code.\n");
-    printf("- Livrable : URL du dépôt Git public.\n\n");
+Gestion des fichiers
+Allocation dynamique
+Conception d'interface
+Informations générales
 
-    printf("## Fonctionnalités du projet\n\n");
+Critères généraux
+Application fonctionnelle conforme à la description initiale.
+Code généreusement commenté.
+Langue uniforme pour tout le code (anglais recommandé).
+Gestion correcte des erreurs pour éviter les plantages.
+Conception modulaire du code.
+Livrable : URL du dépôt Git public.
+Fonctionnalités du projet
 
-    printf("### Mode général\n");
-    printf("- Scènes et artistes personnalisables.\n");
-    printf("- Sauvegarde de l'état des salles de concert entre les sessions.\n");
-    printf("- Salles de concert définies par rangées et sièges.\n");
-    printf("- Sièges avec statut de réservation et catégorie de prix.\n");
-    printf("- Deux modes de fonctionnement : Manager et Festivalier.\n");
-    printf("- Gestion dynamique de la mémoire et persistance des données.\n\n");
+Mode général
+Scènes et artistes personnalisables.
+Sauvegarde de l'état des salles de concert entre les sessions.
+Salles de concert définies par rangées et sièges.
+Sièges avec statut de réservation et catégorie de prix.
+Deux modes de fonctionnement : Manager et Festivalier.
+Gestion dynamique de la mémoire et persistance des données.
+Mode Manager
+Création et configuration des salles de concert.
+Attribution des salles aux concerts, avec option de fosse.
+Définition des prix des sièges par catégorie.
+Modification des configurations des salles après concert.
+Consultation de l'état des salles et des ratios de réservation.
+Mode Festivalier
+Affichage des salles avec concerts à venir.
+Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.
+Affichage du prix total des réservations.
+Améliorations supplémentaires
+Création automatique des salles à partir d'un fichier de programme du festival.
+Recherche des meilleures places adjacentes disponibles.
+Ressources utiles
 
-    printf("### Mode Manager\n");
-    printf("- Création et configuration des salles de concert.\n");
-    printf("- Attribution des salles aux concerts, avec option de fosse.\n");
-    printf("- Définition des prix des sièges par catégorie.\n");
-    printf("- Modification des configurations des salles après concert.\n");
-    printf("- Consultation de l'état des salles et des ratios de réservation.\n\n");
+GitHub
+Guide de démarrage GitHub
+Couleurs dans le terminal
+Liste des emojis
 
-    printf("### Mode Festivalier\n");
-    printf("- Affichage des salles avec concerts à venir.\n");
-    printf("- Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.\n");
-    printf("- Affichage du prix total des réservations.\n\n");
-
-    printf("### Améliorations supplémentaires\n");
-    printf("- Création automatique des salles à partir d'un fichier de programme du festival.\n");
-    printf("- Recherche des meilleures places adjacentes disponibles.\n\n");
-
-    printf("## Ressources utiles\n");
-    printf("- [GitHub](http://www.github.com/)\n");
-    printf("- [Guide de démarrage GitHub](https://docs.github.com/en/get-started/quickstart/hello-world)\n");
-    printf("- [Couleurs dans le terminal](http://sdz.tdct.org/sdz/des-couleurs-dans-la-console-linux.html)\n");
-    printf("- [Liste des emojis](https://unicode.org/emoji/charts/full-emoji-list.html)\n");
-
-    return 0;
-}
