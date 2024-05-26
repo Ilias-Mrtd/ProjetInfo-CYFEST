@@ -17,7 +17,7 @@ Allocation dynamique
 Conception d'interface  
   
 Informations générales  
-## Mode général
+## Avantage du projet: 
 Scènes et artistes personnalisables.  
   
 Sauvegarde de l'état des salles de concert entre les sessions.   
@@ -28,9 +28,6 @@ Sièges avec statut de réservation et catégorie de prix.
   
 Deux modes de fonctionnement : Manager et Festivalier.  
   
-Gestion dynamique de la mémoire et persistance des données.  
-  
-
 ## Mode Manager
 Création et configuration des salles de concert.  
   
