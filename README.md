@@ -1,32 +1,42 @@
-CY Fest-Grp MI-4 tri-A
+#Projet CY'Fest
 
-Projet 1ere annee CY Tech
+##Description du projet:
 
-LANDIER Gabin
-PROCOPPE Sam
-CALVANO Romain
-Cette application permet de gerer un festival
+##Le but de ce projet est de développer une application permettant aux organisateurs de gérer les différentes scènes du festival CY'Fest. Les participants doivent payer et réserver leurs places pour les différents concerts. Ce projet implique :
 
-Il y a deux modes :
+####Gestion des fichiers
+####Allocation dynamique
+####Conception d'interface
+####Informations générales
 
-Le premier mode est le mode manageur :
 
-Celui ci permet a quiconque ayant le mot de passe de modifier tous les aspect du festival. Que ca soit pour ajouter des salles, cree des concert ou meme suprimer des salles.
 
-Les options sont :
-Creer Salle
-Supprimer Salle
-Modifier Salle
-Creer Concert
-Supprimer Concert
-Liberer Salle
-Liberer Place
-Le deuxieme mode est le mode festivalier :
+##Mode général
+####Scènes et artistes personnalisables.
+####Sauvegarde de l'état des salles de concert entre les sessions.
+####Salles de concert définies par rangées et sièges.
+####Sièges avec statut de réservation et catégorie de prix.
+####Deux modes de fonctionnement : Manager et Festivalier.
+####Gestion dynamique de la mémoire et persistance des données.
 
-Celui ci simule toute autre plateforme de reservation de places. On peut voir les concerts a venir, les places disponibles et de pouvoir annuler la reservation.
+##Mode Manager
+####Création et configuration des salles de concert.
+####Attribution des salles aux concerts, avec option de fosse.
+####Définition des prix des sièges par catégorie.
+####Modification des configurations des salles après concert.
+####Consultation de l'état des salles et des ratios de réservation.
 
-Les options sont : 
-Afficher Salle
-Reservation de place
-Liste des Salles
-Rembousement
+##Mode Festivalier
+####Affichage des salles avec concerts à venir.
+####Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.
+####Affichage du prix total des réservations.
+####Améliorations supplémentaires
+####Création automatique des salles à partir d'un fichier de programme du festival.
+####Recherche des meilleures places adjacentes disponibles.
+
+##Ressources utiles
+
+####GitHub
+####Guide de démarrage GitHub
+####Couleurs dans le terminal
+####Liste des emojis
