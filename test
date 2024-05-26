@@ -1,0 +1,37 @@
+#include <stdio.h>
+#include <unistd.h> 
+int main() {
+    int totalSeconds;
+    printf("Entrez le nombre total de secondes pour le compte à rebours: ");
+    scanf("%d", &totalSeconds);
+
+   
+    int hours = totalSeconds / 3600;
+    int minutes = (totalSeconds % 3600) / 60;
+    int seconds = totalSeconds % 60;
+
+    
+    if (totalSeconds < 0) {
+        printf("Veuillez entrer un nombre positif.\n");
+        return 1;
+    }
+
+   
+    while (totalSeconds > 0) {
+       
+        printf("%02d:%02d:%02d\n", hours, minutes, seconds);
+
+       
+        sleep(1);
+
+    
+        totalSeconds--;
+        hours = totalSeconds / 3600;
+        minutes = (totalSeconds % 3600) / 60;
+        seconds = totalSeconds % 60;
+    }
+
+    printf("BOOM\n");
+
+    return 0;
+}
