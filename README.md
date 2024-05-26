@@ -64,4 +64,12 @@ Le but de ce projet est de développer une application permettant aux organisate
 →Création automatique des salles à partir d'un fichier de programme du festival.  
   
 →Recherche des meilleures places adjacentes disponibles.  
+
+## Ce projet a ete realise par:  
+- Mourtada Ilias  
+
+- Hugo Law-Sam  
+
+- Corentin Guerin
   
+  ![Logo_CY_Cergy_Paris_Université](https://github.com/Ilias-Mrtd/ProjetInfo-CYFEST/assets/92232344/0f2083fd-3efe-4460-b192-ec3f66d22c80)
