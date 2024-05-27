@@ -55,7 +55,10 @@ Le but de ce projet est de développer une application permettant aux organisate
 →Consultation de l'état des salles et des ratios de réservation.  
   
 
-## Mode Festivalier 🍾
+## Mode Festivalier 🍾  
+
+  - (⚠️LE MODE FESTIVALIER N'EST TOUJOURS PAS OPPERATIONELE⚠️)
+      
 →Affichage des salles avec concerts à venir.  
   
 →Réservation de sièges ou emplacements avec visualisation des disponibilités et catégories de prix.  
