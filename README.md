@@ -57,7 +57,7 @@ Le but de ce projet est de développer une application permettant aux organisate
 
 ## Mode Festivalier 🍾  
 
-  - (⚠️LE MODE FESTIVALIER N'EST TOUJOURS PAS OPPERATIONELE⚠️)
+  - (⚠️LE MODE FESTIVALIER N'EST TOUJOURS PAS OPPERATIONELE A 100%⚠️)
       
 →Affichage des salles avec concerts à venir.  
   
