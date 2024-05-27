@@ -34,9 +34,9 @@ Le but de ce projet est de développer une application permettant aux organisate
 
 
 ## Comment lancer le code 🧑‍💻:  
-  - Pour lancer le programme il faut écrire make dans le terminal, ensuite appuyez sur entrée. Puis il suffit d'écrire ./exec dans le terminal et le programma va se lancer.  
+  - Pour lancer le programme il faut entrer "make" dans le terminal, ensuite appuyez sur entrée. Puis il suffit d'écrire "./exec" dans le terminal et le programma va se lancer.  
 
-  - Afin de naviguer en mode amdministrateur, il suffit d'entrer 'utilisateur' dans la rubrique utilisateur et 'mot de passe' dans la rubrique mot de passe.
+  - Afin de naviguer en mode amdministrateur, il suffit d'entrer "utilisateur" dans la rubrique utilisateur et "mot de passe" dans la rubrique mot de passe.
 
           
 
